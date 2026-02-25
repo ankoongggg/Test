@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Matcha Latte ",
+    "price": 25000,
+    "category": "tea",
+    "image": "https://hunufa.vn/wp-content/uploads/2025/03/cach-lam-matcha-latte-da-2-tang-thom-ngon-don-gian-4.webp",
+  "description": "Matcha nguyên chất, thơm dịu, hậu vị thanh mát.",
+  "fullDescription": "Matcha nguyên chất xay mịn hòa cùng sữa tươi. Sản phẩm dùng bột matcha chất lượng cao, cho hương thơm thuần khiết và vị dịu nhẹ kéo dài.",
+  "sizes": { "M": 25000, "L": 30000 }
+  },
+  {
+    "id": 2,
+    "name": "Matcha Latte Dừa",
+    "price": 30000,
+    "category": "milk-tea",
+    "image": "https://file.hstatic.net/1000220639/file/nuoc_dua_kem_matcha_fd1ff71b4c544fe9b2a03e2bdc6fbae6.jpg",
+  "description": "Matcha hòa cùng nước cốt dừa, vị béo ngọt nhẹ.",
+  "fullDescription": "Matcha kết hợp với nước cốt dừa tươi, mang đến vị béo mượt và hương thơm đặc trưng, phù hợp cho những ai thích thức uống ngọt dịu.",
+  "sizes": { "M": 30000, "L": 35000 }
+  },
+  {
+    "id": 3,
+    "name": "Matcha Latte Cacao",
+    "price": 30000,
+    "category": "tea",
+    "image": "https://cdn.shopify.com/s/files/1/1258/6665/files/BLOG_47.png?v=1627593433",
+  "description": "Matcha kết hợp cacao, vị cacao nhẹ, cân bằng.",
+  "fullDescription": "Sự hòa quyện của matcha và cacao tạo nên thức uống đậm đà, cân bằng giữa vị chát của trà và vị ngọt của cacao, thơm và dễ thưởng thức.",
+  "sizes": { "M": 30000, "L": 35000 }
+  },
+  {
+    "id": 4,
+    "name": "Matcha Latte Đá Xay",
+    "price": 30000,
+    "category": "milk-tea",
+    "image": "https://www.huongnghiepaau.com/wp-content/uploads/2016/10/cach-lam-matcha-da-xay.jpg",
+  "description": "Matcha đá xay kèm kem cheese, mát lạnh và béo nhẹ.",
+  "fullDescription": "Matcha đá xay mịn, điểm xuyết lớp kem cheese béo mượt trên bề mặt — mát lạnh, thơm và thích hợp cho ngày nóng.",
+  "sizes": { "M": 30000, "L": 35000 }
+  }
+]
